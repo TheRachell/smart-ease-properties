@@ -1,13 +1,15 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": false,
   "redirects": [
     {
       "source": "/properties/apartments-for-sale.html",
-      "destination": "/invest/investment-opportunities.html",
+      "destination": "/invest/investment-opportunities",
       "permanent": true
     },
     {
       "source": "/properties/apartments-for-sale",
-      "destination": "/invest/investment-opportunities.html",
+      "destination": "/invest/investment-opportunities",
       "permanent": true
     }
   ]
